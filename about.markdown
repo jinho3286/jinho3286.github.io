@@ -1,7 +1,7 @@
 ---
-layout: 
-title: About _  + Mark Down 문법
-permalink: http://127.0.0.1:4000/
+layout: page
+title: "About + Mark Down 문법"
+
 ---
 
 ## Jinho's Online Note
@@ -89,3 +89,53 @@ C언어 구문
 
 
 ###### 와 이정도면 많이 했다 일단 여기까지!
+
+
+
+
+
+
+
+# h1
+
+## h2
+
+### h3
+
+#### h4
+
+##### h5
+
+###### h6
+
+
+
+*기울여쓰기*
+
+**강조**
+
+`block`
+
+```c
+#include
+
+int main() 
+{
+    return 0;
+}
+```
+
+
+
+![](http://economychosun.com/query/upload/322/20191103221129_fgyjnwts.jpg)
+
+짜란~
+
+
+
+[INU링크만들기](http://cyber.inu.ac.kr/)
+
+
+
+
+
