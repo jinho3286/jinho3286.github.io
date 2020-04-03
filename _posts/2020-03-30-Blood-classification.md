@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Blood classification"
 date : 2020-03-30 12:47:00 +0900
 authour : Jinho

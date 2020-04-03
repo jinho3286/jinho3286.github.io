@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "About + Mark Down 문법"
 
 ---
